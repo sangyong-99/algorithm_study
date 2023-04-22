@@ -7,40 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5EB2B49529F36DF6003AFC13 /* 1032.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B49429F36DF6003AFC13 /* 1032.cpp */; };
-		5EB2B49A29F36E77003AFC13 /* 1149.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B49929F36E77003AFC13 /* 1149.cpp */; };
-		5EB2B4A329F36F28003AFC13 /* 1256.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4A229F36F28003AFC13 /* 1256.cpp */; };
-		5EB2B4A529F36F63003AFC13 /* 1463.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4A429F36F63003AFC13 /* 1463.cpp */; };
-		5EB2B4A729F36F74003AFC13 /* 1699.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4A629F36F74003AFC13 /* 1699.cpp */; };
-		5EB2B4A929F36F87003AFC13 /* 1929.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4A829F36F87003AFC13 /* 1929.cpp */; };
-		5EB2B4AB29F36FAC003AFC13 /* 1978.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4AA29F36FAC003AFC13 /* 1978.cpp */; };
-		5EB2B4AD29F36FC1003AFC13 /* 2581.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4AC29F36FC1003AFC13 /* 2581.cpp */; };
-		5EB2B4AF29F36FE6003AFC13 /* 2738.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4AE29F36FE6003AFC13 /* 2738.cpp */; };
-		5EB2B4B229F37006003AFC13 /* 2798.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4B129F37006003AFC13 /* 2798.cpp */; };
-		5EB2B4B429F37019003AFC13 /* 4375.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4B329F37019003AFC13 /* 4375.cpp */; };
-		5EB2B4B629F3702B003AFC13 /* 4948.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4B529F3702B003AFC13 /* 4948.cpp */; };
-		5EB2B4B929F37056003AFC13 /* 6397.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4B829F37056003AFC13 /* 6397.cpp */; };
-		5EB2B4BB29F3707C003AFC13 /* 8902.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4BA29F3707C003AFC13 /* 8902.cpp */; };
-		5EB2B4BD29F37090003AFC13 /* 9020.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4BC29F37090003AFC13 /* 9020.cpp */; };
-		5EB2B4BF29F370A6003AFC13 /* 9029.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4BE29F370A6003AFC13 /* 9029.cpp */; };
-		5EB2B4C129F370B7003AFC13 /* 10757.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4C029F370B7003AFC13 /* 10757.cpp */; };
-		5EB2B4C329F370CC003AFC13 /* 11062.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4C229F370CC003AFC13 /* 11062.cpp */; };
-		5EB2B4C529F370E0003AFC13 /* 11653.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4C429F370E0003AFC13 /* 11653.cpp */; };
-		5EB2B4C729F3710B003AFC13 /* 12100.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4C629F3710B003AFC13 /* 12100.cpp */; };
-		5EB2B4C929F3712E003AFC13 /* 13460.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4C829F3712E003AFC13 /* 13460.cpp */; };
-		5EB2B4CB29F37154003AFC13 /* 14502.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4CA29F37154003AFC13 /* 14502.cpp */; };
-		5EB2B4CD29F3715F003AFC13 /* 14502(2).cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4CC29F3715F003AFC13 /* 14502(2).cpp */; };
-		5EB2B4CF29F3717D003AFC13 /* 14719.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4CE29F3717D003AFC13 /* 14719.cpp */; };
-		5EB2B4D929F371A7003AFC13 /* path.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4D029F371A7003AFC13 /* path.cpp */; };
-		5EB2B4DA29F371A7003AFC13 /* coin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4D129F371A7003AFC13 /* coin.cpp */; };
-		5EB2B4DB29F371A7003AFC13 /* addingways.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4D229F371A7003AFC13 /* addingways.cpp */; };
-		5EB2B4DC29F371A7003AFC13 /* coinmove.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4D329F371A7003AFC13 /* coinmove.cpp */; };
-		5EB2B4DD29F371A7003AFC13 /* gridpath.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4D429F371A7003AFC13 /* gridpath.cpp */; };
-		5EB2B4DE29F371A7003AFC13 /* card.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4D529F371A7003AFC13 /* card.cpp */; };
-		5EB2B4DF29F371A7003AFC13 /* bin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4D629F371A7003AFC13 /* bin.cpp */; };
-		5EB2B4E029F371A7003AFC13 /* secret_contact.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4D729F371A7003AFC13 /* secret_contact.cpp */; };
-		5EB2B4E129F371A7003AFC13 /* drive.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4D829F371A7003AFC13 /* drive.cpp */; };
-		5EB2B4E329F371BA003AFC13 /* mst.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4E229F371BA003AFC13 /* mst.cpp */; };
+		5EB2B4F429F37469003AFC13 /* 2161.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4F329F37469003AFC13 /* 2161.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -115,6 +82,7 @@
 		5EB2B4ED29F372EB003AFC13 /* 프로세스.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "프로세스.cpp"; sourceTree = "<group>"; };
 		5EB2B4EF29F372FD003AFC13 /* 다리를 지나는 트럭.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "다리를 지나는 트럭.cpp"; sourceTree = "<group>"; };
 		5EB2B4F129F37314003AFC13 /* 주식가격.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "주식가격.cpp"; sourceTree = "<group>"; };
+		5EB2B4F329F37469003AFC13 /* 2161.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2161.cpp; sourceTree = "<group>"; };
 		5EC88F2029D85CB2000A0685 /* 4949.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4949.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -192,6 +160,7 @@
 				5E6B1F3129D9A7C80072F8F7 /* 10799.cpp */,
 				5E7C273B29C56322002E1F29 /* 10845.cpp */,
 				5E7C273F29C59BCB002E1F29 /* 10866.cpp */,
+				5EB2B4F329F37469003AFC13 /* 2161.cpp */,
 			);
 			name = "자료구조";
 			path = "자료구조";
@@ -374,40 +343,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5EB2B4CF29F3717D003AFC13 /* 14719.cpp in Sources */,
-				5EB2B4C929F3712E003AFC13 /* 13460.cpp in Sources */,
-				5EB2B4AF29F36FE6003AFC13 /* 2738.cpp in Sources */,
-				5EB2B4DD29F371A7003AFC13 /* gridpath.cpp in Sources */,
-				5EB2B4AB29F36FAC003AFC13 /* 1978.cpp in Sources */,
-				5EB2B4DB29F371A7003AFC13 /* addingways.cpp in Sources */,
-				5EB2B4B929F37056003AFC13 /* 6397.cpp in Sources */,
-				5EB2B4C529F370E0003AFC13 /* 11653.cpp in Sources */,
-				5EB2B4AD29F36FC1003AFC13 /* 2581.cpp in Sources */,
-				5EB2B4C329F370CC003AFC13 /* 11062.cpp in Sources */,
-				5EB2B4BB29F3707C003AFC13 /* 8902.cpp in Sources */,
-				5EB2B4A929F36F87003AFC13 /* 1929.cpp in Sources */,
-				5EB2B4A329F36F28003AFC13 /* 1256.cpp in Sources */,
-				5EB2B4B429F37019003AFC13 /* 4375.cpp in Sources */,
-				5EB2B4DF29F371A7003AFC13 /* bin.cpp in Sources */,
-				5EB2B4B629F3702B003AFC13 /* 4948.cpp in Sources */,
-				5EB2B4E129F371A7003AFC13 /* drive.cpp in Sources */,
-				5EB2B4BD29F37090003AFC13 /* 9020.cpp in Sources */,
-				5EB2B4DA29F371A7003AFC13 /* coin.cpp in Sources */,
-				5EB2B49A29F36E77003AFC13 /* 1149.cpp in Sources */,
-				5EB2B4E329F371BA003AFC13 /* mst.cpp in Sources */,
-				5EB2B4DC29F371A7003AFC13 /* coinmove.cpp in Sources */,
-				5EB2B4E029F371A7003AFC13 /* secret_contact.cpp in Sources */,
-				5EB2B49529F36DF6003AFC13 /* 1032.cpp in Sources */,
-				5EB2B4C729F3710B003AFC13 /* 12100.cpp in Sources */,
-				5EB2B4A529F36F63003AFC13 /* 1463.cpp in Sources */,
-				5EB2B4D929F371A7003AFC13 /* path.cpp in Sources */,
-				5EB2B4DE29F371A7003AFC13 /* card.cpp in Sources */,
-				5EB2B4BF29F370A6003AFC13 /* 9029.cpp in Sources */,
-				5EB2B4CB29F37154003AFC13 /* 14502.cpp in Sources */,
-				5EB2B4CD29F3715F003AFC13 /* 14502(2).cpp in Sources */,
-				5EB2B4A729F36F74003AFC13 /* 1699.cpp in Sources */,
-				5EB2B4B229F37006003AFC13 /* 2798.cpp in Sources */,
-				5EB2B4C129F370B7003AFC13 /* 10757.cpp in Sources */,
+				5EB2B4F429F37469003AFC13 /* 2161.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
