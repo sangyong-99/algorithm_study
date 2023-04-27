@@ -6,11 +6,6 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		5E80571129FA56A4006DF630 /* 17478.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E80570F29FA56A4006DF630 /* 17478.cpp */; };
-		5EB2B4FA29F50EE4003AFC13 /* 1966.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2B4F929F50EE4003AFC13 /* 1966.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		5E48E15829C3539600C7BA85 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -36,6 +31,7 @@
 		5E7C273F29C59BCB002E1F29 /* 10866.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10866.cpp; sourceTree = "<group>"; };
 		5E7C274129C5A2C3002E1F29 /* 1874.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1874.cpp; sourceTree = "<group>"; };
 		5E80570F29FA56A4006DF630 /* 17478.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 17478.cpp; sourceTree = "<group>"; };
+		5E80571229FA74E3006DF630 /* 10949.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10949.cpp; sourceTree = "<group>"; };
 		5E95AF3829D65A4000A97EF2 /* 17413.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 17413.cpp; sourceTree = "<group>"; };
 		5E97C3B629D15EA8001A3165 /* 10870.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10870.cpp; sourceTree = "<group>"; };
 		5E97C3B829D1603F001A3165 /* 2748.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2748.cpp; sourceTree = "<group>"; };
@@ -150,6 +146,7 @@
 			children = (
 				5E80570F29FA56A4006DF630 /* 17478.cpp */,
 				5E48E16629C357B000C7BA85 /* 2446.cpp */,
+				5E80571229FA74E3006DF630 /* 10949.cpp */,
 				5EB2B4CE29F3717D003AFC13 /* 14719.cpp */,
 			);
 			name = "구현";
@@ -352,8 +349,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5EB2B4FA29F50EE4003AFC13 /* 1966.cpp in Sources */,
-				5E80571129FA56A4006DF630 /* 17478.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
