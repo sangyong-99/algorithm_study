@@ -212,5 +212,68 @@
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CD95034-76E9-4656-8323-BA3240AD482F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "algorithm_study/baekjoon/&#x1100;&#x116e;&#x1112;&#x1167;&#x11ab;/1780.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "0CD95034-76E9-4656-8323-BA3240AD482F - 89ae5a8820b5f56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "algorithm_study"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sangyong-shin/Desktop/algorithm_study/algorithm_study/baekjoon/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/1780.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "0CD95034-76E9-4656-8323-BA3240AD482F - 89ae5a8820b5f56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "algorithm_study"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sangyong-shin/Desktop/algorithm_study/algorithm_study/baekjoon/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/1780.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "0CD95034-76E9-4656-8323-BA3240AD482F - 89ae5a8820b5f75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "algorithm_study"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sangyong-shin/Desktop/algorithm_study/algorithm_study/baekjoon/%E1%84%80%E1%85%AE%E1%84%92%E1%85%A7%E1%86%AB/1780.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
