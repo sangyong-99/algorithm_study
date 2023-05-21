@@ -17,7 +17,7 @@ bool compares(tuple<ll, ll, ll, ll, ll> &v1, tuple<ll, ll, ll, ll, ll> &v2){
     if(get<1>(v1) == get<1>(v2)) return get<0>(v1) < get<0>(v2);
     return get<1>(v1) < get<1>(v2);
 }
-void output(bool pp, ll s = 0){
+void output(bool pp, ll s = 0){ 
     if(pp)
         fout << "Tree edges by Kruskal algorithm: " << result1 << "\n";
     else
