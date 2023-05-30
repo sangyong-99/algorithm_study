@@ -6,6 +6,10 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		5E29F95F2A25FAA300736492 /* 20053.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E29F95E2A25FAA300736492 /* 20053.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		5E48E15829C3539600C7BA85 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -26,6 +30,9 @@
 		5E23E6EA2A247E2E00F44576 /* 1935.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1935.cpp; sourceTree = "<group>"; };
 		5E23E6EC2A248AAD00F44576 /* 2346.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2346.cpp; sourceTree = "<group>"; };
 		5E27311A29DAA270009DC2AA /* 17298.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 17298.cpp; sourceTree = "<group>"; };
+		5E29F95A2A25F78B00736492 /* 2753.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2753.cpp; sourceTree = "<group>"; };
+		5E29F95C2A25F93400736492 /* 5597.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5597.cpp; sourceTree = "<group>"; };
+		5E29F95E2A25FAA300736492 /* 20053.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 20053.cpp; sourceTree = "<group>"; };
 		5E48E15A29C3539600C7BA85 /* algorithm_study */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm_study; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E48E15D29C3539600C7BA85 /* 10952.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10952.cpp; sourceTree = "<group>"; };
 		5E48E16629C357B000C7BA85 /* 2446.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2446.cpp; sourceTree = "<group>"; };
@@ -162,7 +169,10 @@
 				5E48E16629C357B000C7BA85 /* 2446.cpp */,
 				5E80571429FA7E96006DF630 /* 1780.cpp */,
 				5E80571229FA74E3006DF630 /* 10949.cpp */,
+				5E29F95E2A25FAA300736492 /* 20053.cpp */,
+				5E29F95C2A25F93400736492 /* 5597.cpp */,
 				5EB2B4CE29F3717D003AFC13 /* 14719.cpp */,
+				5E29F95A2A25F78B00736492 /* 2753.cpp */,
 			);
 			name = "구현";
 			path = "구현";
@@ -386,6 +396,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E29F95F2A25FAA300736492 /* 20053.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
