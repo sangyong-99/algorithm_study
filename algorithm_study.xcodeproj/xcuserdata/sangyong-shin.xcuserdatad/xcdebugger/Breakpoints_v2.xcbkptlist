@@ -263,78 +263,31 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "73C714D5-D761-4FD4-8CB7-5E22BFC229F1"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "algorithm_study/baekjoon/&#x1100;&#x1173;&#x1105;&#x1175;&#x1103;&#x1175;/11000.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "26"
-            endingLineNumber = "26"
-            landmarkName = "main()"
-            landmarkType = "9">
-            <Locations>
-               <Location
-                  uuid = "73C714D5-D761-4FD4-8CB7-5E22BFC229F1 - 665200920ccb67b3"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "main"
-                  moduleName = "algorithm_study"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/sangyong-shin/Desktop/algorithm_study/algorithm_study/baekjoon/%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%83%E1%85%B5/11000.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "26"
-                  endingLineNumber = "26"
-                  offsetFromSymbolStart = "228">
-               </Location>
-               <Location
-                  uuid = "73C714D5-D761-4FD4-8CB7-5E22BFC229F1 - 665200920ccb67b3"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "main"
-                  moduleName = "algorithm_study"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/sangyong-shin/Desktop/algorithm_study/algorithm_study/baekjoon/%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%83%E1%85%B5/11000.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "26"
-                  endingLineNumber = "26"
-                  offsetFromSymbolStart = "216">
-               </Location>
-               <Location
-                  uuid = "73C714D5-D761-4FD4-8CB7-5E22BFC229F1 - 665200920ccb67b3"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "main"
-                  moduleName = "algorithm_study"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/sangyong-shin/Desktop/algorithm_study/algorithm_study/baekjoon/%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%84%83%E1%85%B5/11000.cpp"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "26"
-                  endingLineNumber = "26"
-                  offsetFromSymbolStart = "232">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "421C2E82-9F8F-4B56-BE0A-5A33F5C11631"
+            uuid = "CF143FA0-3908-4140-9C44-29CC92B5934A"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "algorithm_study/baekjoon/&#x1100;&#x1173;&#x1105;&#x1175;&#x1103;&#x1175;/11000.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "684EFD80-32BE-4C2D-8559-87DF81C53CF8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "algorithm_study/baekjoon/&#x1100;&#x1173;&#x1105;&#x1175;&#x1103;&#x1175;/11000.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
             landmarkName = "main()"
             landmarkType = "9">
          </BreakpointContent>
