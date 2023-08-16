@@ -9,7 +9,7 @@
 using namespace std;
 
 vector<int> dp;
-int N; int data_arr[1010];
+int N; int data_arr[1000010];
 int temp;
 
 void input_data() {
@@ -37,9 +37,5 @@ int main() {
         }
         
     }
-//    for(int i = 0; i < dp.size(); i++) {
-//        cout << dp[i] << " ";
-//    }
-//    cout << endl;
     cout << dp.size();
 }
