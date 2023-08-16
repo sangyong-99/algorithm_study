@@ -3,7 +3,7 @@
 //  algorithm_study
 //
 //  Created by 신상용 on 2023/08/16.
-//
+//  동적 계획법을 활용한 풀이 : O(N^2)
 
 #include <bits/stdc++.h>
 using namespace std;
