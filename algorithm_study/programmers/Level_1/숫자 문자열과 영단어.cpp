@@ -5,10 +5,6 @@
 //  Created by 신상용 on 11/9/23.
 //
 
-#include <bits/stdc++.h>
-
-using namespace std;
-
 #include <string>
 #include <vector>
 #include <algorithm>
