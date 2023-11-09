@@ -43,6 +43,7 @@
 		5E48E16B29C35DBC00C7BA85 /* 10828.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10828.cpp; sourceTree = "<group>"; };
 		5E4F5DFF2A8CA23A00DCB842 /* 12015.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 12015.cpp; sourceTree = "<group>"; };
 		5E4F5E012A8CA32900DCB842 /* 2504.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2504.cpp; sourceTree = "<group>"; };
+		5E5137B92AEA9AB100A9AAEF /* 1.3.1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.3.1.cpp; sourceTree = "<group>"; };
 		5E6385F42A19FE0100E3AEED /* 14675(2).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "14675(2).cpp"; sourceTree = "<group>"; };
 		5E6385F62A1A02B800E3AEED /* 1068.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1068.cpp; sourceTree = "<group>"; };
 		5E6385F82A1A295400E3AEED /* 5639.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5639.cpp; sourceTree = "<group>"; };
@@ -60,6 +61,7 @@
 		5E95AF3829D65A4000A97EF2 /* 17413.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 17413.cpp; sourceTree = "<group>"; };
 		5E97C3B629D15EA8001A3165 /* 10870.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10870.cpp; sourceTree = "<group>"; };
 		5E97C3B829D1603F001A3165 /* 2748.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2748.cpp; sourceTree = "<group>"; };
+		5EA021472AFA6075004865F2 /* 숫자 문자열과 영단어.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "숫자 문자열과 영단어.cpp"; sourceTree = "<group>"; };
 		5EB2B49229F36D61003AFC13 /* 1010.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1010.cpp; sourceTree = "<group>"; };
 		5EB2B49429F36DF6003AFC13 /* 1032.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 1032.cpp; sourceTree = "<group>"; };
 		5EB2B49729F36E35003AFC13 /* 1052.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 1052.cpp; sourceTree = "<group>"; };
@@ -146,10 +148,27 @@
 		5E48E15C29C3539600C7BA85 /* algorithm_study */ = {
 			isa = PBXGroup;
 			children = (
+				5E5137B82AEA9A6C00A9AAEF /* C++ DATASTRUCTURES */,
 				5EB2B4E529F37253003AFC13 /* programmers */,
 				5EB2B4E429F37200003AFC13 /* baekjoon */,
 			);
 			path = algorithm_study;
+			sourceTree = "<group>";
+		};
+		5E5137B82AEA9A6C00A9AAEF /* C++ DATASTRUCTURES */ = {
+			isa = PBXGroup;
+			children = (
+				5E5137B92AEA9AB100A9AAEF /* 1.3.1.cpp */,
+			);
+			path = "C++ DATASTRUCTURES";
+			sourceTree = "<group>";
+		};
+		5EA0214A2AFC6DF1004865F2 /* Level_1 */ = {
+			isa = PBXGroup;
+			children = (
+				5EA021472AFA6075004865F2 /* 숫자 문자열과 영단어.cpp */,
+			);
+			path = Level_1;
 			sourceTree = "<group>";
 		};
 		5EB2B48D29F36B12003AFC13 /* 수학 */ = {
@@ -320,6 +339,7 @@
 		5EB2B4E529F37253003AFC13 /* programmers */ = {
 			isa = PBXGroup;
 			children = (
+				5EA0214A2AFC6DF1004865F2 /* Level_1 */,
 				5EB2B4E629F37265003AFC13 /* 스택_큐 */,
 			);
 			path = programmers;
@@ -535,6 +555,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				"HEADER_SEARCH_PATHS[arch=*]" = (
+					/opt/homebrew/Cellar/boost/1.82.0_1/include,
+					"/opt/homebrew/Cellar/openssl@1.1/1.1.1u/include",
+				);
+				"LIBRARY_SEARCH_PATHS[arch=*]" = (
+					/opt/homebrew/Cellar/boost/1.82.0_1/include,
+					"/opt/homebrew/Cellar/openssl@1.1/1.1.1u/include",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -543,6 +571,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				"HEADER_SEARCH_PATHS[arch=*]" = (
+					/opt/homebrew/Cellar/boost/1.82.0_1/include,
+					"/opt/homebrew/Cellar/openssl@1.1/1.1.1u/include",
+				);
+				"LIBRARY_SEARCH_PATHS[arch=*]" = (
+					/opt/homebrew/Cellar/boost/1.82.0_1/include,
+					"/opt/homebrew/Cellar/openssl@1.1/1.1.1u/include",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
