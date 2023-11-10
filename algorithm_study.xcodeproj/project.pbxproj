@@ -115,6 +115,7 @@
 		5EC511C92A14C6970092A0DB /* 9934.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 9934.cpp; sourceTree = "<group>"; };
 		5EC511CB2A14CB760092A0DB /* 14675.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14675.cpp; sourceTree = "<group>"; };
 		5EC88F2029D85CB2000A0685 /* 4949.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4949.cpp; sourceTree = "<group>"; };
+		5ECD41C32AFE39CD00B85877 /* K번째 수.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "K번째 수.cpp"; sourceTree = "<group>"; };
 		5ED810912A2828CF00D1D4C5 /* 4396.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4396.cpp; sourceTree = "<group>"; };
 		5EE205452A124C82004EFF62 /* 11725.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11725.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -169,6 +170,7 @@
 			children = (
 				5E3D43DE2AFC6EE9009F8602 /* 숫자 문자열과 영단어.cpp */,
 				5E3D43E02AFD4837009F8602 /* 가장 가까운 같은 글자.cpp */,
+				5ECD41C32AFE39CD00B85877 /* K번째 수.cpp */,
 			);
 			path = Level_1;
 			sourceTree = "<group>";
