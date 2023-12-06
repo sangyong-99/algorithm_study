@@ -131,6 +131,7 @@
 		5ECD41D12B03009A00B85877 /* 명예의 전당 (1).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "명예의 전당 (1).cpp"; sourceTree = "<group>"; };
 		5ED0E9C42B1F5CAC00385E45 /* 1007.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1007.cpp; sourceTree = "<group>"; };
 		5ED0E9C62B20293500385E45 /* 달리기 경주(1).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "달리기 경주(1).cpp"; sourceTree = "<group>"; };
+		5ED0E9CA2B2031DD00385E45 /* 달리기 경주(2).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "달리기 경주(2).cpp"; sourceTree = "<group>"; };
 		5ED810912A2828CF00D1D4C5 /* 4396.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4396.cpp; sourceTree = "<group>"; };
 		5EE205452A124C82004EFF62 /* 11725.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11725.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -194,6 +195,7 @@
 				5ECD41D12B03009A00B85877 /* 명예의 전당 (1).cpp */,
 				5E2AF6F52B18C14D003C3126 /* 카드 뭉치.cpp */,
 				5ED0E9C62B20293500385E45 /* 달리기 경주(1).cpp */,
+				5ED0E9CA2B2031DD00385E45 /* 달리기 경주(2).cpp */,
 			);
 			path = Level_1;
 			sourceTree = "<group>";
