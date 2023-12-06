@@ -1,4 +1,4 @@
-//
+
 //  1007.cpp
 //  algorithm_study
 //
