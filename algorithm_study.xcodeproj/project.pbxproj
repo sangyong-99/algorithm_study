@@ -131,6 +131,7 @@
 		5ED0E9CA2B2031DD00385E45 /* 달리기 경주(2).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "달리기 경주(2).cpp"; sourceTree = "<group>"; };
 		5ED810912A2828CF00D1D4C5 /* 4396.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4396.cpp; sourceTree = "<group>"; };
 		5EE205452A124C82004EFF62 /* 11725.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11725.cpp; sourceTree = "<group>"; };
+		E85420472B22C76D00376010 /* 폰켓몬.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "폰켓몬.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,6 +190,7 @@
 				5ECD41C72AFE4AA500B85877 /* [1차] 비밀지도.cpp */,
 				5ECD41CB2B01C6B200B85877 /* 두 개 뽑아서 더하기.cpp */,
 				5ECD41CD2B024D8F00B85877 /* 콜라 문제.cpp */,
+				E85420472B22C76D00376010 /* 폰켓몬.cpp */,
 				5ECD41D12B03009A00B85877 /* 명예의 전당 (1).cpp */,
 				5E2AF6F52B18C14D003C3126 /* 카드 뭉치.cpp */,
 				5E5716BC2B2201C900A63DBD /* 2016년.cpp */,
@@ -436,7 +438,7 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastUpgradeCheck = 1420;
+				LastUpgradeCheck = 1500;
 				TargetAttributes = {
 					5E48E15929C3539600C7BA85 = {
 						CreatedOnToolsVersion = 14.2;
@@ -476,6 +478,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -505,9 +508,11 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -534,6 +539,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -563,9 +569,11 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -585,13 +593,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				"HEADER_SEARCH_PATHS[arch=*]" = (
-					/opt/homebrew/Cellar/boost/1.82.0_1/include,
-					"/opt/homebrew/Cellar/openssl@1.1/1.1.1u/include",
+					/opt/homebrew/Cellar/boost/1.83.0/include,
+					"/opt/homebrew/Cellar/openssl@3/3.2.0_1/include",
 				);
 				"LIBRARY_SEARCH_PATHS[arch=*]" = (
-					/opt/homebrew/Cellar/boost/1.82.0_1/include,
-					"/opt/homebrew/Cellar/openssl@1.1/1.1.1u/include",
+					/opt/homebrew/Cellar/boost/1.83.0/include,
+					"/opt/homebrew/Cellar/openssl@3/3.2.0_1/include",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -601,13 +610,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				"HEADER_SEARCH_PATHS[arch=*]" = (
-					/opt/homebrew/Cellar/boost/1.82.0_1/include,
-					"/opt/homebrew/Cellar/openssl@1.1/1.1.1u/include",
+					/opt/homebrew/Cellar/boost/1.83.0/include,
+					"/opt/homebrew/Cellar/openssl@3/3.2.0_1/include",
 				);
 				"LIBRARY_SEARCH_PATHS[arch=*]" = (
-					/opt/homebrew/Cellar/boost/1.82.0_1/include,
-					"/opt/homebrew/Cellar/openssl@1.1/1.1.1u/include",
+					/opt/homebrew/Cellar/boost/1.83.0/include,
+					"/opt/homebrew/Cellar/openssl@3/3.2.0_1/include",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
