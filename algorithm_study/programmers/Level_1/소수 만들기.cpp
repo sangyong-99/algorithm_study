@@ -16,11 +16,9 @@ int solution(vector<int> nums) {
 
     bool decimal[3000];
     
-    for(int i = 0; i <= 3000; i++) {
-        decimal[i] = true;
-    }
+    fill(decimal, decimal+3000, true);
     
-    for(int i = 2; i <= 3000; i++) {
+    for(int i = 2; i <= 1500; i++) {
         if (decimal[i]) {
             cout << i << " ";
             for(int j = i * 2; j <= 3000; j += i) {
