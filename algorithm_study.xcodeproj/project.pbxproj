@@ -134,6 +134,7 @@
 		5ED0E9CA2B2031DD00385E45 /* 달리기 경주(2).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "달리기 경주(2).cpp"; sourceTree = "<group>"; };
 		5ED810912A2828CF00D1D4C5 /* 4396.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4396.cpp; sourceTree = "<group>"; };
 		5EE205452A124C82004EFF62 /* 11725.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11725.cpp; sourceTree = "<group>"; };
+		5EE5058B2B35570B00846C3B /* 실패율.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "실패율.cpp"; sourceTree = "<group>"; };
 		E85420472B22C76D00376010 /* 폰켓몬.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "폰켓몬.cpp"; sourceTree = "<group>"; };
 		E854204C2B24024100376010 /* 과일 장수.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "과일 장수.cpp"; sourceTree = "<group>"; };
 		E854204E2B24244F00376010 /* 모의고사.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "모의고사.cpp"; sourceTree = "<group>"; };
@@ -208,6 +209,7 @@
 				5EB28D2D2B2695B200DF1789 /* 소수 찾기.cpp */,
 				5EB28D2F2B269DD400DF1789 /* 기사단원의 무기.cpp */,
 				E8AA1EAD2B35290B00FB7EF1 /* 옹알이 (2).cpp */,
+				5EE5058B2B35570B00846C3B /* 실패율.cpp */,
 			);
 			path = Level_1;
 			sourceTree = "<group>";
