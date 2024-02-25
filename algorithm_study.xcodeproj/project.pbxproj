@@ -28,6 +28,7 @@
 		5E23E6E82A247A2200F44576 /* 2164.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2164.cpp; sourceTree = "<group>"; };
 		5E23E6EA2A247E2E00F44576 /* 1935.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1935.cpp; sourceTree = "<group>"; };
 		5E23E6EC2A248AAD00F44576 /* 2346.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2346.cpp; sourceTree = "<group>"; };
+		5E2695DD2B89F767001A37E5 /* vector_prac.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = vector_prac.cpp; sourceTree = "<group>"; };
 		5E27311A29DAA270009DC2AA /* 17298.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 17298.cpp; sourceTree = "<group>"; };
 		5E29F95A2A25F78B00736492 /* 2753.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2753.cpp; sourceTree = "<group>"; };
 		5E29F95C2A25F93400736492 /* 5597.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5597.cpp; sourceTree = "<group>"; };
@@ -192,6 +193,7 @@
 			isa = PBXGroup;
 			children = (
 				5E3D43DE2AFC6EE9009F8602 /* 숫자 문자열과 영단어.cpp */,
+				5E2695DD2B89F767001A37E5 /* vector_prac.cpp */,
 				5E3D43E02AFD4837009F8602 /* 가장 가까운 같은 글자.cpp */,
 				5ECD41C32AFE39CD00B85877 /* K번째 수.cpp */,
 				5ECD41C52AFE3D5C00B85877 /* 문자열 내 마음대로 정렬하기.cpp */,
