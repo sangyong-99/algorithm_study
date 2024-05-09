@@ -16,7 +16,6 @@ string solution(vector<string> participant, vector<string> completion) {
         }
     }
     
-    
     for(string s: completion) {
         if (um[s] > 1) {
             um[s]--;
