@@ -6,10 +6,6 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		5EBDE87E2BA6F26500120975 /* rough_keyboard.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EBDE87D2BA6F26500120975 /* rough_keyboard.cpp */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		5E48E15829C3539600C7BA85 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -24,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		5E07B9F22A388086003021FA /* 21313.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 21313.cpp; sourceTree = "<group>"; };
+		5E096E212BEC78D200E531AE /* 완주하지_못한_선수.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "완주하지_못한_선수.cpp"; sourceTree = "<group>"; };
 		5E098FE82A8C6E7B00032B2F /* 11053.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11053.cpp; sourceTree = "<group>"; };
 		5E098FEC2A8C737700032B2F /* 11053(2).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "11053(2).cpp"; sourceTree = "<group>"; };
 		5E0CCACF2BA6B5F3004129ED /* String_division.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = String_division.cpp; sourceTree = "<group>"; };
@@ -209,6 +206,7 @@
 				5ECD41CB2B01C6B200B85877 /* 두 개 뽑아서 더하기.cpp */,
 				5ECD41CD2B024D8F00B85877 /* 콜라 문제.cpp */,
 				E85420472B22C76D00376010 /* 폰켓몬.cpp */,
+				5E096E212BEC78D200E531AE /* 완주하지_못한_선수.cpp */,
 				E854204C2B24024100376010 /* 과일 장수.cpp */,
 				E854204E2B24244F00376010 /* 모의고사.cpp */,
 				5ECD41D12B03009A00B85877 /* 명예의 전당 (1).cpp */,
@@ -498,7 +496,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5EBDE87E2BA6F26500120975 /* rough_keyboard.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
