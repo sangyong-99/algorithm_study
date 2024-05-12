@@ -362,7 +362,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "15"
             endingLineNumber = "15"
-            landmarkName = "solution(s, skip, index)"
+            landmarkName = "solution(ingredient)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -378,7 +378,23 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "20"
             endingLineNumber = "20"
-            landmarkName = "solution(s, skip, index)"
+            landmarkName = "solution(ingredient)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B770518-4E54-4FB3-9628-F493C3925342"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "algorithm_study/programmers/Level_1/prac.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "solution(ingredient)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
