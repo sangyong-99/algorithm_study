@@ -131,6 +131,7 @@
 		5EBDE87D2BA6F26500120975 /* rough_keyboard.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = rough_keyboard.cpp; sourceTree = "<group>"; };
 		5EC511C92A14C6970092A0DB /* 9934.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 9934.cpp; sourceTree = "<group>"; };
 		5EC511CB2A14CB760092A0DB /* 14675.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14675.cpp; sourceTree = "<group>"; };
+		5EC5B9EA2BF5056C00B9AAFA /* 6198.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6198.cpp; sourceTree = "<group>"; };
 		5EC88F2029D85CB2000A0685 /* 4949.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4949.cpp; sourceTree = "<group>"; };
 		5ECD41C32AFE39CD00B85877 /* K번째 수.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "K번째 수.cpp"; sourceTree = "<group>"; };
 		5ECD41C52AFE3D5C00B85877 /* 문자열 내 마음대로 정렬하기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "문자열 내 마음대로 정렬하기.cpp"; sourceTree = "<group>"; };
@@ -281,6 +282,7 @@
 			children = (
 				5E7C274129C5A2C3002E1F29 /* 1874.cpp */,
 				5E0A80642BF32EB9001B9FD7 /* 2493.cpp */,
+				5EC5B9EA2BF5056C00B9AAFA /* 6198.cpp */,
 				5E27311A29DAA270009DC2AA /* 17298.cpp */,
 				5E0A80622BF32C6D001B9FD7 /* 10773.cpp */,
 				5E23E6E62A246ECB00F44576 /* 9012.cpp */,
