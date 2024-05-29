@@ -128,6 +128,8 @@
 		5EB2B4F529F4C9D9003AFC13 /* 18258.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 18258.cpp; sourceTree = "<group>"; };
 		5EB2B4F729F4CBA8003AFC13 /* 1158.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1158.cpp; sourceTree = "<group>"; };
 		5EB2B4F929F50EE4003AFC13 /* 1966.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1966.cpp; sourceTree = "<group>"; };
+		5EBDE34F2C073C35000E5066 /* 1475.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1475.cpp; sourceTree = "<group>"; };
+		5EBDE3512C073F48000E5066 /* 3273.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3273.cpp; sourceTree = "<group>"; };
 		5EBDE87D2BA6F26500120975 /* rough_keyboard.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = rough_keyboard.cpp; sourceTree = "<group>"; };
 		5EC511C92A14C6970092A0DB /* 9934.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 9934.cpp; sourceTree = "<group>"; };
 		5EC511CB2A14CB760092A0DB /* 14675.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14675.cpp; sourceTree = "<group>"; };
@@ -274,6 +276,8 @@
 				5E29F95C2A25F93400736492 /* 5597.cpp */,
 				5EB2B4CE29F3717D003AFC13 /* 14719.cpp */,
 				5E29F95A2A25F78B00736492 /* 2753.cpp */,
+				5EBDE34F2C073C35000E5066 /* 1475.cpp */,
+				5EBDE3512C073F48000E5066 /* 3273.cpp */,
 			);
 			name = "구현";
 			path = "구현";
