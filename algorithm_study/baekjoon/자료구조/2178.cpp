@@ -53,7 +53,7 @@ int main() {
             
             bfs_queue.push({nx, ny});
             datas[nx][ny].vis = true;
-            datas[nx][ny].distance = min(datas[nx][ny].distance, temp_distance + 1);
+            datas[nx][ny].distance = temp_distance + 1;
             
         }
         
