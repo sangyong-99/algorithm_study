@@ -632,10 +632,10 @@
             filePath = "algorithm_study/baekjoon/&#x1100;&#x1173;&#x1105;&#x1162;&#x1111;&#x1173; &#x1110;&#x1161;&#x11b7;&#x1109;&#x1162;&#x11a8;/4179.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "54"
-            endingLineNumber = "54"
-            landmarkName = "solution()"
-            landmarkType = "9">
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -648,9 +648,41 @@
             filePath = "algorithm_study/baekjoon/&#x1100;&#x1173;&#x1105;&#x1162;&#x1111;&#x1173; &#x1110;&#x1161;&#x11b7;&#x1109;&#x1162;&#x11a8;/4179.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "91"
-            endingLineNumber = "91"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
             landmarkName = "solution()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFAF955F-1629-4D94-B260-36CA584C0226"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "algorithm_study/baekjoon/&#x1100;&#x1173;&#x1105;&#x1162;&#x1111;&#x1173; &#x1110;&#x1161;&#x11b7;&#x1109;&#x1162;&#x11a8;/1697.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB86ACEC-6756-4D2F-8058-C6D110A0DDC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "algorithm_study/baekjoon/&#x1100;&#x1173;&#x1105;&#x1162;&#x1111;&#x1173; &#x1110;&#x1161;&#x11b7;&#x1109;&#x1162;&#x11a8;/1697.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "solution1()"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>

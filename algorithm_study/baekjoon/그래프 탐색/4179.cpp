@@ -34,8 +34,6 @@ void input() {
         for(int j = 0; j < C; j++) {
             bfs_data[i][j].datas = s[j];
             if (s[j] == 'J' || s[j] == 'F') {
-                
-                
                 if (s[j] == 'J') {
                     person_queue.push({i, j});
                     bfs_data[i][j].personvisisted = 0;
