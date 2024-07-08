@@ -658,7 +658,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "AFAF955F-1629-4D94-B260-36CA584C0226"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "algorithm_study/baekjoon/&#x1100;&#x1173;&#x1105;&#x1162;&#x1111;&#x1173; &#x1110;&#x1161;&#x11b7;&#x1109;&#x1162;&#x11a8;/1697.cpp"
