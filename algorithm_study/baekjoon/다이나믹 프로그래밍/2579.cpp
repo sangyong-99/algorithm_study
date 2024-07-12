@@ -27,3 +27,5 @@ int main() {
     
     cout << max(datas[N][1], datas[N][2]);
 }
+
+d
