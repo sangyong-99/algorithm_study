@@ -2,7 +2,7 @@
 //  점프와 순간 이동.cpp
 //  algorithm_study
 //
-//  Created by Shin Sangyong on 7/13/24.
+//  Created by Shin Sangyong on 7/13/24 .
 //
 
 #include <iostream>
