@@ -77,6 +77,7 @@
 		5E6B0B792C42471F0068B8AD /* 영어 끝말잇기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "영어 끝말잇기.cpp"; sourceTree = "<group>"; };
 		5E6B0B7B2C42491B0068B8AD /* 멀리 뛰기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "멀리 뛰기.cpp"; sourceTree = "<group>"; };
 		5E6B0B7D2C4298CD0068B8AD /* 귤 고르기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "귤 고르기.cpp"; sourceTree = "<group>"; };
+		5E6B0B7F2C42992F0068B8AD /* N개의 최소공배수.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "N개의 최소공배수.cpp"; sourceTree = "<group>"; };
 		5E6B1F2F29D9689C0072F8F7 /* 1406.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1406.cpp; sourceTree = "<group>"; };
 		5E6B1F3129D9A7C80072F8F7 /* 10799.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10799.cpp; sourceTree = "<group>"; };
 		5E6C528B2BA6BDAF00832D3B /* Gym_Clothes.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Gym_Clothes.cpp; sourceTree = "<group>"; };
@@ -495,6 +496,7 @@
 				5E6B0B792C42471F0068B8AD /* 영어 끝말잇기.cpp */,
 				5E6B0B7B2C42491B0068B8AD /* 멀리 뛰기.cpp */,
 				5E6B0B7D2C4298CD0068B8AD /* 귤 고르기.cpp */,
+				5E6B0B7F2C42992F0068B8AD /* N개의 최소공배수.cpp */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";
