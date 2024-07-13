@@ -1,5 +1,5 @@
 //
-//  영어 끝말잇기.cpp
+//  .cpp
 //  algorithm_study
 //
 //  Created by Shin Sangyong on 7/13/24.
