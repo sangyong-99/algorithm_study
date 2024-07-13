@@ -1,8 +1,8 @@
 //
-//  .cpp
+//  영어 끝말잇기.cpp
 //  algorithm_study
 //
-//  Created by Shin Sangyong on 7/13/24.
+//  Created by 신상용 on 7/13/24.
 //
 
 #include <iostream>
