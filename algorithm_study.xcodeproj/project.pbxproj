@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		5E6B0B822C42995E0068B8AD /* 예상 대진표.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E6B0B812C42995E0068B8AD /* 예상 대진표.cpp */; };
-		5E6B0B862C42A16A0068B8AD /* 7569.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E6B0B852C42A16A0068B8AD /* 7569.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -177,6 +176,7 @@
 		5ED0E9C42B1F5CAC00385E45 /* 1007.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1007.cpp; sourceTree = "<group>"; };
 		5ED0E9C62B20293500385E45 /* 달리기 경주(1).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "달리기 경주(1).cpp"; sourceTree = "<group>"; };
 		5ED0E9CA2B2031DD00385E45 /* 달리기 경주(2).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "달리기 경주(2).cpp"; sourceTree = "<group>"; };
+		5ED6848F2C6E289D00A086D7 /* 7562.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 7562.cpp; sourceTree = "<group>"; };
 		5ED810912A2828CF00D1D4C5 /* 4396.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4396.cpp; sourceTree = "<group>"; };
 		5EDD54D92B5D428500FEBA90 /* [1차]다트 게임.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "[1차]다트 게임.cpp"; sourceTree = "<group>"; };
 		5EE205452A124C82004EFF62 /* 11725.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11725.cpp; sourceTree = "<group>"; };
@@ -419,6 +419,7 @@
 				5E496BD32C3CDEFE0075E0B0 /* 1012.cpp */,
 				5E496BD52C3CFB920075E0B0 /* 10026.cpp */,
 				5E6B0B852C42A16A0068B8AD /* 7569.cpp */,
+				5ED6848F2C6E289D00A086D7 /* 7562.cpp */,
 			);
 			name = "그래프 이론_탐색";
 			path = "그래프 탐색";
@@ -587,7 +588,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E6B0B862C42A16A0068B8AD /* 7569.cpp in Sources */,
 				5E6B0B822C42995E0068B8AD /* 예상 대진표.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
