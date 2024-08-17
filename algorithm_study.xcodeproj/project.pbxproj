@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5E6B0B822C42995E0068B8AD /* 예상 대진표.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E6B0B812C42995E0068B8AD /* 예상 대진표.cpp */; };
+		5ED6849A2C7096A500A086D7 /* 2583.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5ED684992C7096A500A086D7 /* 2583.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -178,6 +179,7 @@
 		5ED0E9CA2B2031DD00385E45 /* 달리기 경주(2).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "달리기 경주(2).cpp"; sourceTree = "<group>"; };
 		5ED6848F2C6E289D00A086D7 /* 7562.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 7562.cpp; sourceTree = "<group>"; };
 		5ED684972C6F409500A086D7 /* 5427.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5427.cpp; sourceTree = "<group>"; };
+		5ED684992C7096A500A086D7 /* 2583.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2583.cpp; sourceTree = "<group>"; };
 		5ED810912A2828CF00D1D4C5 /* 4396.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4396.cpp; sourceTree = "<group>"; };
 		5EDD54D92B5D428500FEBA90 /* [1차]다트 게임.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "[1차]다트 게임.cpp"; sourceTree = "<group>"; };
 		5EE205452A124C82004EFF62 /* 11725.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11725.cpp; sourceTree = "<group>"; };
@@ -422,6 +424,7 @@
 				5E6B0B852C42A16A0068B8AD /* 7569.cpp */,
 				5ED6848F2C6E289D00A086D7 /* 7562.cpp */,
 				5ED684972C6F409500A086D7 /* 5427.cpp */,
+				5ED684992C7096A500A086D7 /* 2583.cpp */,
 			);
 			name = "그래프 이론_탐색";
 			path = "그래프 탐색";
@@ -591,6 +594,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E6B0B822C42995E0068B8AD /* 예상 대진표.cpp in Sources */,
+				5ED6849A2C7096A500A086D7 /* 2583.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
