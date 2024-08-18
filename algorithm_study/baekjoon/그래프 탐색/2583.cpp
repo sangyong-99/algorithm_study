@@ -20,6 +20,8 @@ int M, N, K, counts;
 int sx, sy, ex, ey;
 vector<vector<BFS>> datas(110, vector<BFS>(110));
 queue<pair<int, int>> bfs_queue;
+vector<int> results;
+
 void input_data() {
     cin >> M >> N >> K;
     while (K--) {
@@ -31,10 +33,9 @@ void input_data() {
         }
     }
 }
-vector<int> results;
 
-int main() {
-    input_data();
+
+void solution() {
     for(int i = 0; i < M; i++) {
         for(int j = 0; j < N; j++) {
             if (datas[i][j].data == 1 || datas[i][j].visited) {continue;}
@@ -60,6 +61,11 @@ int main() {
             results.push_back(temp_count);
         }
     }
+}
+
+int main() {
+    input_data();
+    solution();
     cout << counts << '\n';
     sort(results.begin(), results.end());
     for (int i = 0; i < results.size(); i++) {
