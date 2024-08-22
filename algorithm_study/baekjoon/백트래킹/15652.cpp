@@ -1,5 +1,5 @@
 //
-//  15651.cpp
+//  15652.cpp
 //  algorithm_study
 //
 //  Created by 신상용 on 8/22/24.
@@ -11,20 +11,20 @@ using namespace std;
 int N, M;
 int arr[10];
 
-void func(int k) {
+void func(int num, int k) {
     if (k == M) {
         for(int i = 0; i < M; i++) cout << arr[i] << ' ';
         cout << '\n';
         return;
     }
     
-    for(int i = 1; i <= N; i++) {
+    for(int i = num; i <= N; i++) {
         arr[k] = i;
-        func(k + 1);
+        func(i, k + 1);
     }
 }
 
 int main() {
     cin >> N >> M;
-    func(0);
+    func(1, 0);
 }
