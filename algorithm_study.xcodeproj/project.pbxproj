@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5E6B0B822C42995E0068B8AD /* 예상 대진표.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E6B0B812C42995E0068B8AD /* 예상 대진표.cpp */; };
-		5ED684B02C76E00800A086D7 /* 15650.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5ED684AF2C76E00800A086D7 /* 15650.cpp */; };
+		5ED684B22C76ED1300A086D7 /* 15650(2).cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5ED684B12C76ED1300A086D7 /* 15650(2).cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -189,6 +189,7 @@
 		5ED684AA2C76C11E00A086D7 /* 1992.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1992.cpp; sourceTree = "<group>"; };
 		5ED684AD2C76D3CA00A086D7 /* 15649.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 15649.cpp; sourceTree = "<group>"; };
 		5ED684AF2C76E00800A086D7 /* 15650.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 15650.cpp; sourceTree = "<group>"; };
+		5ED684B12C76ED1300A086D7 /* 15650(2).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15650(2).cpp"; sourceTree = "<group>"; };
 		5ED810912A2828CF00D1D4C5 /* 4396.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4396.cpp; sourceTree = "<group>"; };
 		5EDD54D92B5D428500FEBA90 /* [1차]다트 게임.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "[1차]다트 게임.cpp"; sourceTree = "<group>"; };
 		5EE205452A124C82004EFF62 /* 11725.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11725.cpp; sourceTree = "<group>"; };
@@ -538,6 +539,7 @@
 			children = (
 				5ED684AD2C76D3CA00A086D7 /* 15649.cpp */,
 				5ED684AF2C76E00800A086D7 /* 15650.cpp */,
+				5ED684B12C76ED1300A086D7 /* 15650(2).cpp */,
 			);
 			name = "백트래킹";
 			path = "백트래킹";
@@ -621,7 +623,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E6B0B822C42995E0068B8AD /* 예상 대진표.cpp in Sources */,
-				5ED684B02C76E00800A086D7 /* 15650.cpp in Sources */,
+				5ED684B22C76ED1300A086D7 /* 15650(2).cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
