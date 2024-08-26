@@ -104,6 +104,7 @@
 		5E8F06452C7ABAD700449A99 /* 6603.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6603.cpp; sourceTree = "<group>"; };
 		5E8F064A2C7AFD6000449A99 /* 1759.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1759.cpp; sourceTree = "<group>"; };
 		5E8F06502C7B28ED00449A99 /* 1759(2).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1759(2).cpp"; sourceTree = "<group>"; };
+		5E8F06522C7B2DE800449A99 /* 1941.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1941.cpp; sourceTree = "<group>"; };
 		5E936E412A387CC30089ADBD /* 11047.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11047.cpp; sourceTree = "<group>"; };
 		5E95AF3829D65A4000A97EF2 /* 17413.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 17413.cpp; sourceTree = "<group>"; };
 		5E97C3B629D15EA8001A3165 /* 10870.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 10870.cpp; sourceTree = "<group>"; };
@@ -571,6 +572,7 @@
 				5E8F06452C7ABAD700449A99 /* 6603.cpp */,
 				5E8F064A2C7AFD6000449A99 /* 1759.cpp */,
 				5E8F06502C7B28ED00449A99 /* 1759(2).cpp */,
+				5E8F06522C7B2DE800449A99 /* 1941.cpp */,
 			);
 			name = "백트래킹";
 			path = "백트래킹";

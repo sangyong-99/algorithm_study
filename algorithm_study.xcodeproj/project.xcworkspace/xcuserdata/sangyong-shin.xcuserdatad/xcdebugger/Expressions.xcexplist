@@ -3,6 +3,25 @@
    version = "1.0">
    <ContextStates>
       <ContextState
+         contextName = "solution(std::__1::vector&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, std::__1::allocator&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&gt;&gt;, std::__1::vector&lt;std::__1::pair&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int&gt;, std::__1::allocator&lt;std::__1::pair&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int&gt;&gt;&gt;):prac.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "dd.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "bfs(std::__1::pair&lt;int, int&gt;):1941.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "select">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "func(int, int):1759(2).cpp">
+      </ContextState>
+      <ContextState
          contextName = "main:2493.cpp">
          <PersistentStrings>
             <PersistentString
@@ -10,14 +29,6 @@
             </PersistentString>
             <PersistentString
                value = "ss">
-            </PersistentString>
-         </PersistentStrings>
-      </ContextState>
-      <ContextState
-         contextName = "solution(std::__1::vector&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, std::__1::allocator&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&gt;&gt;, std::__1::vector&lt;std::__1::pair&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int&gt;, std::__1::allocator&lt;std::__1::pair&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int&gt;&gt;&gt;):prac.cpp">
-         <PersistentStrings>
-            <PersistentString
-               value = "dd.size">
             </PersistentString>
          </PersistentStrings>
       </ContextState>
@@ -36,6 +47,12 @@
                value = "s.top()">
             </PersistentString>
          </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "func(int):15663.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:1759(2).cpp">
       </ContextState>
    </ContextStates>
 </VariablesViewState>
