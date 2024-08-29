@@ -60,8 +60,6 @@ bool bfs(pair<int, int> stan) {
             }
         }
     }
-    
-    
     return count == 7;
 }
 
