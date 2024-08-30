@@ -19,7 +19,12 @@
          </PersistentStrings>
       </ContextState>
       <ContextState
-         contextName = "func(int, int):1759(2).cpp">
+         contextName = "main:6198.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "s.top()">
+            </PersistentString>
+         </PersistentStrings>
       </ContextState>
       <ContextState
          contextName = "main:2493.cpp">
@@ -41,18 +46,21 @@
          </PersistentStrings>
       </ContextState>
       <ContextState
-         contextName = "main:6198.cpp">
-         <PersistentStrings>
-            <PersistentString
-               value = "s.top()">
-            </PersistentString>
-         </PersistentStrings>
+         contextName = "func(int, int):1759(2).cpp">
       </ContextState>
       <ContextState
          contextName = "func(int):15663.cpp">
       </ContextState>
       <ContextState
          contextName = "main:1759(2).cpp">
+      </ContextState>
+      <ContextState
+         contextName = "solution(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;):&#x1100;&#x1175;&#x1102;&#x1173;&#x11bc;&#x1100;&#x1162;&#x1107;&#x1161;&#x11af;.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
       </ContextState>
    </ContextStates>
 </VariablesViewState>
