@@ -3,4 +3,22 @@
    uuid = "2093E8A0-5499-4718-9635-BA51E4702F13"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73B6E05F-B480-4B81-A67F-472D85077642"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "algorithm_study/programmers/Level_2/&#x1100;&#x116a;&#x11af;&#x1112;&#x1169; &#x1112;&#x116c;&#x110c;&#x1165;&#x11ab;&#x1112;&#x1161;&#x1100;&#x1175;.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "check(s)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
