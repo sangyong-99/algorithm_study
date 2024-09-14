@@ -60,6 +60,7 @@
 		5E38A07D2C85927400520EBC /* 의상.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "의상.cpp"; sourceTree = "<group>"; };
 		5E38A07F2C85A07400520EBC /* H-Index.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "H-Index.cpp"; sourceTree = "<group>"; };
 		5E38A0842C904AF500520EBC /* 프로세스.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "프로세스.cpp"; sourceTree = "<group>"; };
+		5E38A0862C904C3700520EBC /* 튜플.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "튜플.cpp"; sourceTree = "<group>"; };
 		5E3D43DE2AFC6EE9009F8602 /* 숫자 문자열과 영단어.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "숫자 문자열과 영단어.cpp"; sourceTree = "<group>"; };
 		5E3D43E02AFD4837009F8602 /* 가장 가까운 같은 글자.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "가장 가까운 같은 글자.cpp"; sourceTree = "<group>"; };
 		5E48E15A29C3539600C7BA85 /* algorithm_study */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm_study; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -564,6 +565,7 @@
 				E8E199D72C8F6802007A162C /* 타켓 넘버.cpp */,
 				E8E199D92C8F724B007A162C /* [1차] 캐시.cpp */,
 				5E38A0842C904AF500520EBC /* 프로세스.cpp */,
+				5E38A0862C904C3700520EBC /* 튜플.cpp */,
 			);
 			path = Level_2;
 			sourceTree = "<group>";

@@ -62,5 +62,16 @@
             </PersistentString>
          </PersistentStrings>
       </ContextState>
+      <ContextState
+         contextName = "main:&#x110f;&#x1162;&#x1109;&#x1175;.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "solution(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;):&#x1110;&#x1172;&#x1111;&#x1173;&#x11af;.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "results">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
    </ContextStates>
 </VariablesViewState>

@@ -7,16 +7,16 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "73B6E05F-B480-4B81-A67F-472D85077642"
+            uuid = "7885BD20-2CA4-4D64-A879-ED94B860B8DB"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "algorithm_study/programmers/Level_2/&#x1100;&#x116a;&#x11af;&#x1112;&#x1169; &#x1112;&#x116c;&#x110c;&#x1165;&#x11ab;&#x1112;&#x1161;&#x1100;&#x1175;.cpp"
+            filePath = "algorithm_study/programmers/Level_2/&#x1110;&#x1172;&#x1111;&#x1173;&#x11af;.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
-            landmarkName = "check(s)"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "solution(s)"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
