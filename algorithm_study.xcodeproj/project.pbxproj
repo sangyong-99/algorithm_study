@@ -6,6 +6,10 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		5EDFD9AD2CBD70CE0053CBBA /* 이중우선순위큐.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5EDFD9AC2CBD70CE0053CBBA /* 이중우선순위큐.cpp */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		5E48E15829C3539600C7BA85 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -221,6 +225,7 @@
 		5EDD54D92B5D428500FEBA90 /* [1차]다트 게임.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "[1차]다트 게임.cpp"; sourceTree = "<group>"; };
 		5EDFD9A32CAFF4CC0053CBBA /* k진수에서 소수 개수 구하기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "k진수에서 소수 개수 구하기.cpp"; sourceTree = "<group>"; };
 		5EDFD9A72CB008590053CBBA /* 모음사전.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "모음사전.cpp"; sourceTree = "<group>"; };
+		5EDFD9AC2CBD70CE0053CBBA /* 이중우선순위큐.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "이중우선순위큐.cpp"; sourceTree = "<group>"; };
 		5EE205452A124C82004EFF62 /* 11725.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11725.cpp; sourceTree = "<group>"; };
 		5EE5058B2B35570B00846C3B /* 실패율.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "실패율.cpp"; sourceTree = "<group>"; };
 		5EE5058D2B35585D00846C3B /* 덧칠하기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "덧칠하기.cpp"; sourceTree = "<group>"; };
@@ -526,6 +531,7 @@
 		5EB2B4E529F37253003AFC13 /* programmers */ = {
 			isa = PBXGroup;
 			children = (
+				5EDFD9AB2CBD70B60053CBBA /* Level_3 */,
 				5EC817702BFB29BE0023AA1E /* Level_2 */,
 				5EA0214A2AFC6DF1004865F2 /* Level_1 */,
 				5EB2B4E629F37265003AFC13 /* 스택_큐 */,
@@ -626,6 +632,14 @@
 			path = "백트래킹";
 			sourceTree = "<group>";
 		};
+		5EDFD9AB2CBD70B60053CBBA /* Level_3 */ = {
+			isa = PBXGroup;
+			children = (
+				5EDFD9AC2CBD70CE0053CBBA /* 이중우선순위큐.cpp */,
+			);
+			path = Level_3;
+			sourceTree = "<group>";
+		};
 		5EE205442A124C42004EFF62 /* 트리 */ = {
 			isa = PBXGroup;
 			children = (
@@ -703,6 +717,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5EDFD9AD2CBD70CE0053CBBA /* 이중우선순위큐.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
