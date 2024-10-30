@@ -3,6 +3,9 @@
    version = "1.0">
    <ContextStates>
       <ContextState
+         contextName = "func(int, int):1759(2).cpp">
+      </ContextState>
+      <ContextState
          contextName = "solution(std::__1::vector&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, std::__1::allocator&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&gt;&gt;, std::__1::vector&lt;std::__1::pair&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int&gt;, std::__1::allocator&lt;std::__1::pair&lt;std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;, int&gt;&gt;&gt;):prac.cpp">
          <PersistentStrings>
             <PersistentString
@@ -11,29 +14,16 @@
          </PersistentStrings>
       </ContextState>
       <ContextState
-         contextName = "bfs(std::__1::pair&lt;int, int&gt;):1941.cpp">
-         <PersistentStrings>
-            <PersistentString
-               value = "select">
-            </PersistentString>
-         </PersistentStrings>
+         contextName = "main:&#x110f;&#x1162;&#x1109;&#x1175;.cpp">
       </ContextState>
       <ContextState
-         contextName = "main:6198.cpp">
-         <PersistentStrings>
-            <PersistentString
-               value = "s.top()">
-            </PersistentString>
-         </PersistentStrings>
+         contextName = "main:1206.cpp">
       </ContextState>
       <ContextState
-         contextName = "main:2493.cpp">
+         contextName = "dfs:1244.cpp">
          <PersistentStrings>
             <PersistentString
-               value = "results">
-            </PersistentString>
-            <PersistentString
-               value = "ss">
+               value = "index">
             </PersistentString>
          </PersistentStrings>
       </ContextState>
@@ -46,15 +36,6 @@
          </PersistentStrings>
       </ContextState>
       <ContextState
-         contextName = "func(int, int):1759(2).cpp">
-      </ContextState>
-      <ContextState
-         contextName = "func(int):15663.cpp">
-      </ContextState>
-      <ContextState
-         contextName = "main:1759(2).cpp">
-      </ContextState>
-      <ContextState
          contextName = "solution(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;, std::__1::vector&lt;int, std::__1::allocator&lt;int&gt;&gt;):&#x1100;&#x1175;&#x1102;&#x1173;&#x11bc;&#x1100;&#x1162;&#x1107;&#x1161;&#x11af;.cpp">
          <PersistentStrings>
             <PersistentString
@@ -63,13 +44,43 @@
          </PersistentStrings>
       </ContextState>
       <ContextState
-         contextName = "main:&#x110f;&#x1162;&#x1109;&#x1175;.cpp">
+         contextName = "main:6198.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "s.top()">
+            </PersistentString>
+         </PersistentStrings>
       </ContextState>
       <ContextState
          contextName = "solution(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;):&#x1110;&#x1172;&#x1111;&#x1173;&#x11af;.cpp">
          <PersistentStrings>
             <PersistentString
                value = "results">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "bfs(std::__1::pair&lt;int, int&gt;):1941.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "select">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:1759(2).cpp">
+      </ContextState>
+      <ContextState
+         contextName = "func(int):15663.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:2493.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "results">
+            </PersistentString>
+            <PersistentString
+               value = "ss">
             </PersistentString>
          </PersistentStrings>
       </ContextState>
