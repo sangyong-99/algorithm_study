@@ -93,6 +93,7 @@
 		5E52A4812CE61A9C005324EF /* 1860.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1860.cpp; sourceTree = "<group>"; };
 		5E52A4832CE62234005324EF /* 1225.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1225.cpp; sourceTree = "<group>"; };
 		5E52A4852CE652F6005324EF /* 1216.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1216.cpp; sourceTree = "<group>"; };
+		5E52A4872CE66315005324EF /* 1213.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1213.cpp; sourceTree = "<group>"; };
 		5E5716BC2B2201C900A63DBD /* 2016년.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2016년.cpp"; sourceTree = "<group>"; };
 		5E5FC5B32CD277EB00F2EFE3 /* 1208.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1208.cpp; sourceTree = "<group>"; };
 		5E6385F42A19FE0100E3AEED /* 14675(2).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "14675(2).cpp"; sourceTree = "<group>"; };
@@ -324,6 +325,7 @@
 				5E52A4812CE61A9C005324EF /* 1860.cpp */,
 				5E52A4832CE62234005324EF /* 1225.cpp */,
 				5E52A4852CE652F6005324EF /* 1216.cpp */,
+				5E52A4872CE66315005324EF /* 1213.cpp */,
 			);
 			path = SWEA;
 			sourceTree = "<group>";
