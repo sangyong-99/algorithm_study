@@ -17,9 +17,11 @@ void dfs(int count) {
         answer = max(answer, stoi(str));
         return;
     }
+    bool flag = false;
     for(int i = 0; i < str.length(); i++) {
         for(int j = i + 1; j < str.length(); j++) {
             if (str[i] <= str[j]) {
+                flag = true;
                 swap(str[i], str[j]);
                 
                 if (!visited[stoi(str)][count]) {
@@ -30,6 +32,14 @@ void dfs(int count) {
                 swap(str[i], str[j]);
             }
         }
+    }
+    if (!flag) {
+        swap(str[str.length() - 2], str[str.length() - 1]);
+        if (!visited[stoi(str)][count]) {
+            visited[stoi(str)][count] = true;
+            dfs(count+1);
+        }
+        swap(str[str.length() - 2], str[str.length() - 1]);
     }
 }
 
