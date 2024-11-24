@@ -208,6 +208,7 @@
 		5EC1120D2CF0A7C700651FE6 /* 1238.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1238.cpp; sourceTree = "<group>"; };
 		5EC1120F2CF2318B00651FE6 /* 2468.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2468.cpp; sourceTree = "<group>"; };
 		5EC112112CF2E6DC00651FE6 /* 6593.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6593.cpp; sourceTree = "<group>"; };
+		5EC112132CF3188F00651FE6 /* 2206.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2206.cpp; sourceTree = "<group>"; };
 		5EC511C92A14C6970092A0DB /* 9934.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 9934.cpp; sourceTree = "<group>"; };
 		5EC511CB2A14CB760092A0DB /* 14675.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 14675.cpp; sourceTree = "<group>"; };
 		5EC5B9EA2BF5056C00B9AAFA /* 6198.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6198.cpp; sourceTree = "<group>"; };
@@ -540,6 +541,7 @@
 				5EC1120D2CF0A7C700651FE6 /* 1238.cpp */,
 				5EC1120F2CF2318B00651FE6 /* 2468.cpp */,
 				5EC112112CF2E6DC00651FE6 /* 6593.cpp */,
+				5EC112132CF3188F00651FE6 /* 2206.cpp */,
 			);
 			name = "그래프 이론_탐색";
 			path = "그래프 탐색";
