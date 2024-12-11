@@ -258,6 +258,7 @@
 		5EDFD9A72CB008590053CBBA /* 모음사전.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "모음사전.cpp"; sourceTree = "<group>"; };
 		5EDFD9AC2CBD70CE0053CBBA /* 이중우선순위큐.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "이중우선순위큐.cpp"; sourceTree = "<group>"; };
 		5EE205452A124C82004EFF62 /* 11725.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 11725.cpp; sourceTree = "<group>"; };
+		5EE350202D094C4A0043FAE2 /* 1932.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1932.cpp; sourceTree = "<group>"; };
 		5EE5058B2B35570B00846C3B /* 실패율.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "실패율.cpp"; sourceTree = "<group>"; };
 		5EE5058D2B35585D00846C3B /* 덧칠하기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "덧칠하기.cpp"; sourceTree = "<group>"; };
 		E82696202CB046C900C866DA /* 롤케이크 자르기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "롤케이크 자르기.cpp"; sourceTree = "<group>"; };
@@ -509,6 +510,7 @@
 				5EC1121B2CF5AB2000651FE6 /* 9465.cpp */,
 				5EC1121D2CF5B0A600651FE6 /* 11659.cpp */,
 				5EC1121F2CF5B8AF00651FE6 /* 1003.cpp */,
+				5EE350202D094C4A0043FAE2 /* 1932.cpp */,
 			);
 			name = "다이나믹 프로그래밍";
 			path = "다이나믹 프로그래밍";
