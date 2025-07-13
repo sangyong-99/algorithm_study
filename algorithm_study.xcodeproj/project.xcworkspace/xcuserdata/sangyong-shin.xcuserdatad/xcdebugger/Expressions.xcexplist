@@ -84,5 +84,16 @@
             </PersistentString>
          </PersistentStrings>
       </ContextState>
+      <ContextState
+         contextName = "solution:prac.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "mm[&quot;KA&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "mm.find(temp)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
    </ContextStates>
 </VariablesViewState>
